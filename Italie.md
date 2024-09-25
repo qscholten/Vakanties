@@ -63,17 +63,17 @@ https://www.noleggiare.it/en/#!#step2auto
 - Douche + bad\
 https://www.airbnb.nl/rooms/981839?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=1&s=67&unique_share_id=9a3259fc-19f8-40f9-ad45-7a5fc736678c
 ### Activiteiten
-**Colosseum, Forum Romanum & Palentijn**
+**Colosseum, Forum Romanum & Palentijn**\
 ![alt text](image.png)
 - €18.00 pp
 - 08:30 - 16:30
 
-**Pantheon**
+**Pantheon**\
 ![alt text](image-1.png)
 - €5.-
 - 09:00 - 19:00
 
-**Castel Sant’Angelo**
+**Castel Sant’Angelo**\
 ![alt text](image-2.png)
 - €16,-
 - 09:00 - 19:30
