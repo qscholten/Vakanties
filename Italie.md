@@ -11,16 +11,29 @@ Alternatieve terugweg Vrijdag 03 Januari 20:00 (Rome Fiumicino) - 22:25 (Amsterd
 https://www.klm.it/en/search/summary/metasearch?tp=111.06&connections=FCO:A:20250103@2000:KL1608:G:GYLOBNLA:ECONOMY%3EAMS:A&pax=1:0:0:0:0:0:0:0&cabinClass=ECONOMY&mp=GO&msp=GoogleFlights&activeConnection=0 \
 **Alternatief totaal: 171.05 pp**
 #### Autoverhuur
-Europcar - Vanaf €66.00 per dag\
-https://www.europcar.com/en-us/reservation/vehicles?vehicleType=CR&pickupLocation=FCOT01&dropoffLocation=FCOT01&pickupYear=2024&pickupMonth=12&pickupDay=30&dropoffYear=2025&dropoffMonth=01&dropoffDay=03&pickupHour=13&pickupMinute=30&dropoffHour=05&dropoffMinute=30&driverAge=26&countryOfResidence=NL \
-Autovia - Vanaf €32.66 per dag\
-https://www.autovia.it/en/shop/ \
-Goldcar - Vanaf €52.98 per dag\
-https://www.goldcar.es/en/reservas/disponibilidad/ \
-Italy Car Rent - Vanaf €101.65\
-https://www.italycarrent.com/en/shop/ \
-Noleggiare - Vanaf €27.85 per dag\
-https://www.noleggiare.it/en/#!#step2auto 
+**Europcar**
+- Vanaf €66.- per dag
+- Totaal vanaf €330.00 - €82.50 pp
+- https://www.europcar.com/en-us/reservation/vehicles?vehicleType=CR&pickupLocation=FCOT01&dropoffLocation=FCOT01&pickupYear=2024&pickupMonth=12&pickupDay=30&dropoffYear=2025&dropoffMonth=01&dropoffDay=03&pickupHour=13&pickupMinute=30&dropoffHour=05&dropoffMinute=30&driverAge=26&countryOfResidence=NL
+
+**Autovia**
+- Vanaf €32.66 per dag
+- Totaal vanaf €163.30 - €40.83 pp
+- https://www.autovia.it/en/shop/
+
+**Goldcar**
+- Vanaf €52.98 per dag
+- Totaal vanaf €264.90 - €66.23 pp
+- https://www.goldcar.es/en/reservas/disponibilidad/
+
+**Italy Car Rent**
+- Totaal vanaf €101.65 - €25.41 pp
+- https://www.italycarrent.com/en/shop/
+
+**Noleggiare**
+- Vanaf €27.85 per dag
+- Totaal vanaf €139.25 - €34.81 pp
+- https://www.noleggiare.it/en/#!#step2auto 
 ### Verblijf
 **Ontspanning en kunst op de vierde verdieping**
 - Genzano di Roma
