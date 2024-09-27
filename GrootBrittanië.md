@@ -3,10 +3,10 @@
 ### Reis
 #### Vliegtuig
 **EasyJet**\
-Heenweg Maandag 30 December 2024 11:50 (Amsterdam) - 12:25 (Endinburgh) - €135.63 pp\
+Heenweg Maandag 30 December 2024 11:50 (Amsterdam) - 12:25 (Endinburgh) - €84.04 pp\
 Terugweg Vrijdag 3 Januari 2025 18:25 (Edinburgh) - 20:55 (Amsterdam) - €62.59 pp\
-https://www.easyjet.com\
-**Totaal: €135.63 pp**
+https://www.easyjet.com \
+**Totaal: €146.63 pp**
 #### Autoverhuur
 **Edinburgh Airport**
 - Totaal vanaf €164,00 - €41,00 pp
