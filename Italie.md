@@ -2,7 +2,7 @@
 ## Rome en omgeving
 ### Reis
 #### Vliegtuig
-##### Wizzair
+**Wizzair**\
 Heenweg Maandag 30 December 2024 10:35 (Eindhoven) - 12:50 (Rome Fiumicino) - €59.99 pp\
 Terugweg Vrijdag 03 Januari 2025 07:25 (Rome Fiumicino) - 09:50 (Eindhoven) - €89.99 pp\
 https://wizzair.com/en-gb/booking/select-flight/EIN/ROM/2024-12-30/2025-01-03 \
@@ -24,7 +24,7 @@ https://www.noleggiare.it/en/#!#step2auto
 ### Verblijf
 **Ontspanning en kunst op de vierde verdieping**
 - Genzano di Roma
-- €375
+- €375 - €93.75 pp
 - 2 slaapkamers
 - Gratis parkeren
 - Wasmachine
@@ -35,7 +35,8 @@ https://www.noleggiare.it/en/#!#step2auto
   
 **Parel van Zee**
 - Ostia
-- €522
+- €522 - €130.50 pp
+- 3 slaapkamers
 - Gratis parkeren
 - Wasmachine
 - Oven + gasfornuis
@@ -45,7 +46,8 @@ https://www.noleggiare.it/en/#!#step2auto
 
 **Casa Cristina**
 - Marino
-- €503
+- €503 - €125.75 pp
+- 2 slaapkamers
 - Gratis parkeren op straat
 - Wasmachine
 - Oven + gasfornuis
@@ -55,13 +57,14 @@ https://www.noleggiare.it/en/#!#step2auto
 
 **Villa Aranova is een stijlvol en modern huis**
 - Ara Nova
-- €384
+- €384 - €96 pp
+- 3 slaapkamers
 - Gratis parkeren
 - Wasmachine
 - Oven + gasfornuis
 - Wifi
-- Douche + bad\
-https://www.airbnb.nl/rooms/981839?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=1&s=67&unique_share_id=9a3259fc-19f8-40f9-ad45-7a5fc736678c
+- Douche + bad
+- https://www.airbnb.nl/rooms/981839?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=1&s=67&unique_share_id=9a3259fc-19f8-40f9-ad45-7a5fc736678c
 ### Activiteiten
 **Colosseum, Forum Romanum & Palentijn**\
 ![alt text](image.png)
