@@ -2,17 +2,6 @@
 ## Duisburg, Essen, Dortmund en omgeving
 ### Reis
 ### Verblijf
-**Modern 3-kamer appartement bij Osnabrück**
-- Lotte
-- €432 - €108 pp
-- 2 slaapkamers (1 tweepersoonsbed, 2 eenpersoonsbedden)
-- Gratis parkeren
-- Wasmachine
-- Oven en gasfornuis
-- Wifi
-- Douche en bad
-- https://www.airbnb.nl/rooms/31201242?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=c417e1f5-698b-44db-abc3-6b51b87c91ce
-
 **Ruim appartement in jaren '60-stijl**
 - Borken
 - €351 - €87.75 pp
@@ -36,17 +25,6 @@
 - Douche en bad
 - https://www.airbnb.nl/rooms/680187397215214146?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=4ff3fcda-8ab7-4288-9b45-a403675e62b0
 
-**Vakantiewoning aan de Altrhein-Aue**
-- Xanten
-- €553 - €138.25 pp
-- 3 slaakamers (2 kingsize bedden, 1 tweepersoonsbed)
-- Gratis parkeren
-- Geen wasmachine
-- Oven en gasfornuis
-- Wifi
-- Douche en bad
-- https://www.airbnb.nl/rooms/1176189918339584103?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=1fdd8d77-ed54-4a3b-9cf0-18623f814b01
-
 **Koukenhof-appartement in Kerken**
 - Kerken
 - €457 - €144.25 pp
@@ -58,4 +36,41 @@
 - Wifi
 - Douche
 - https://www.airbnb.nl/rooms/604219098403302839?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=7d732e7a-dedd-4a8f-820b-9579c0d31d44
+
+***!! Nieuw!!***\
+**FeWo Baven 85 m ², landelijk, rustig, vlakbij het bos**
+- Sonsbeck
+- €609 - €152.25 pp
+- 2 slaapkamers (2 queensize bedden)
+- Gratis parkeren
+- Geen wasmachine
+- Oven en gasfornuis
+- Wifi
+- Douche en bad
+- https://www.airbnb.nl/rooms/879467936553765717?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=6544a5d9-4d00-4799-a0b0-6a961d5884c4
+
 ### Activiteiten
+
+## Niet meer beschikbaar
+**Modern 3-kamer appartement bij Osnabrück**
+- Lotte
+- €432 - €108 pp
+- 2 slaapkamers (1 tweepersoonsbed, 2 eenpersoonsbedden)
+- Gratis parkeren
+- Wasmachine
+- Oven en gasfornuis
+- Wifi
+- Douche en bad
+- https://www.airbnb.nl/rooms/31201242?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=c417e1f5-698b-44db-abc3-6b51b87c91ce
+
+**Vakantiewoning aan de Altrhein-Aue**
+- Xanten
+- €553 - €138.25 pp
+- 3 slaakamers (2 kingsize bedden, 1 tweepersoonsbed)
+- Gratis parkeren
+- Geen wasmachine
+- Oven en gasfornuis
+- Wifi
+- Douche en bad
+- https://www.airbnb.nl/rooms/1176189918339584103?check_in=2024-12-30&check_out=2025-01-03&guests=1&adults=4&s=67&unique_share_id=1fdd8d77-ed54-4a3b-9cf0-18623f814b01
+
