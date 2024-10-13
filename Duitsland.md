@@ -57,7 +57,8 @@
 | €351 - €609 | €87.75 - €152.25 | Huisje |
 | €100 - €300 | €25 - €75 | Winterbanden huren |
 | €45 * 2 = €90 | €22.50 | Brandstofkosten reis |
-| €541 - €999 | €135.25 - €249.75 | **Totaal**
+| €36 * 4 * 4 = €576 | €56.81 | Etenskosten |
+| €1117 - €1575 | €279.25 - €393.75 | **Totaal**
 
 #### Niet meer beschikbaar
 **Modern 3-kamer appartement bij Osnabrück**
